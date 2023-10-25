@@ -1,0 +1,85 @@
+/* Reset default margin and padding for the whole page */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the container for the entire page */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Style the header section */
+header {
+  text-align: center;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+/* Style the contact information */
+header p {
+  font-size: 16px;
+}
+
+/* Style the "Back" button */
+.back-button {
+  display: block;
+  margin-bottom: 20px;
+  text-decoration: none;
+  background-color: #333;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+/* Style the section headers */
+h2 {
+  font-size: 20px;
+  margin-top: 40px;
+  color: #333;
+}
+
+/* Style the skills list */
+ul {
+  list-style-type: disc;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+/* Style the education and experience sections */
+section {
+  margin-top: 20px;
+}
+
+/* Style project and job titles */
+p b {
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+/* Style project and job descriptions */
+section ul {
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+/* Style links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
