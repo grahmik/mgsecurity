@@ -1,7 +1,7 @@
 # MGSecurity
 
-![MGSecurity](![image](https://github.com/grahmik/mgsecurity/assets/125515783/c44464ce-c46d-4af6-bfd1-d8569cbf2b22)
-)
+![image](https://github.com/grahmik/mgsecurity/assets/125515783/c2e896a0-05f4-40ec-a2a6-f2c853fc77b7)
+
 
 Welcome to my personal website! This repository contains the source code for my online portfolio, where you can learn more about me, my projects, and how to get in touch.
 
