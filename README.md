@@ -30,5 +30,5 @@ You can visit my website live at [MGSecurity](https://mgsecurity.website).
 1. Clone this repository:
 
    ```sh
-   git clone https://github.com/yourusername/your-website.git
+   git clone https://github.com/grahmik/mgsecurity.git
 
